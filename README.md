@@ -42,6 +42,8 @@ How to do a ping scan:
 
 ![image](https://github.com/user-attachments/assets/9c259d35-6c6c-40c5-a289-00e66e18240a)
 
+-The picture above shows how many hosts and how many
+
 
 
 
