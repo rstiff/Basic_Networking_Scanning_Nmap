@@ -19,8 +19,13 @@ Tools that Im using:
 
 
 Topics covered:
--
+-Ping Scan
 - TCP vs UDP scans
+
+
+Ping Scan:
+
+
 
 
 
