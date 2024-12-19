@@ -9,6 +9,9 @@ it can be used in malicious ways used by hackers.
 
 Tools that Im using:
 
+![image](https://github.com/user-attachments/assets/ee65ff03-89ac-4cea-8245-f3642859a78e)
+
+
 - The virtual machine im using is Virtual Box
 - I am using a ALFA which is a Long-Range USB adapter so I can be connected to the internet in Kali
 - Kali Linux
