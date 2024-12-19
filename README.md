@@ -43,9 +43,6 @@ How to do a ping scan:
 To scan the network for devices using Nmap, use the following command:
 
 
-```bash
-  (root@Kali)-[(/home/kali)]- nmap -sn <ip address>` ``` `
-
 
 ![image](https://github.com/user-attachments/assets/add6868f-e0e2-4ff4-9a84-c3b210626610)
 
