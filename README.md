@@ -31,6 +31,10 @@ Ping Scan:
 
 what is a ping scan useful for?
 
+A ping scan in Nmap identifies all of the ip addresses that are currentley online
+without sending any packets to these hosts.  This is useful for penetration testers and system administartors to
+determine if hosts are online or to perform light reconnassance of a target network.
+
 
 How to do a ping scan:
 
@@ -42,7 +46,7 @@ How to do a ping scan:
 
 ![image](https://github.com/user-attachments/assets/9c259d35-6c6c-40c5-a289-00e66e18240a)
 
--The picture above shows how many ip addreses there are as well as how many devices are connected to my Network.
+- The picture above shows how many ip addreses there are as well as how many devices are connected to the Network.
 
 
 
