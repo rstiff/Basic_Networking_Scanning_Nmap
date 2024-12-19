@@ -9,7 +9,10 @@ it can be used in malicious ways used by hackers.
 
 Tools that Im using:
 
--
+- The virtual machine im using is Virtual Box
+- I am using a ALFA which is a Long-Range USB adapter so I can be connected to the internet in Kali
+- Kali Linux
+- Nmap
 
 
 
