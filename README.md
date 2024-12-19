@@ -20,7 +20,7 @@ Tools that Im using:
 
 Topics covered:
 -
--Ping Scan
+- Ping Scan
 - TCP vs UDP scans
 
 
