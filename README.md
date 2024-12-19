@@ -42,6 +42,8 @@ How to do a ping scan:
 
 '''
 # nmap -sn <ip address>
+npm install
+npm start
 
 ![image](https://github.com/user-attachments/assets/add6868f-e0e2-4ff4-9a84-c3b210626610)
 
