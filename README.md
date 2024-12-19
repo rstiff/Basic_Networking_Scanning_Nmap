@@ -1,4 +1,4 @@
-# Networking Scanning using Nmap 
+# Network Scanning using Nmap 
 
 Name: Rory Stiff
 
