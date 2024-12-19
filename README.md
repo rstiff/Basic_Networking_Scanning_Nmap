@@ -29,6 +29,22 @@ Topics covered:
 Ping Scan:
 -
 
+what is a ping scan useful for?
+
+
+How to do a ping scan:
+
+- To do a ping scan type the fillowing command with your Ip address.
+
+![image](https://github.com/user-attachments/assets/add6868f-e0e2-4ff4-9a84-c3b210626610)
+
+- After doing that command you can then see how many ip addreses are on your network and how many devices are connected to it.
+
+![image](https://github.com/user-attachments/assets/9c259d35-6c6c-40c5-a289-00e66e18240a)
+
+
+
+
 
 
 
