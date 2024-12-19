@@ -40,10 +40,9 @@ How to do a ping scan:
 
 - To do a ping scan type the fillowing command with your Ip address.
 
-'''
-# nmap -sn <ip address>
-npm install
-npm start
+''' terminal
+(root@Kali)-[(/home/kali)]- 
+
 
 ![image](https://github.com/user-attachments/assets/add6868f-e0e2-4ff4-9a84-c3b210626610)
 
