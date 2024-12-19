@@ -38,10 +38,12 @@ determine if hosts are online or to perform light reconnassance of a target netw
 
 How to do a ping scan:
 
-- To do a ping scan type the fillowing command with your Ip address.
+### Nmap Command Example
 
-''' terminal
-(root@Kali)-[(/home/kali)]- 
+To scan the network for devices using Nmap, use the following command:
+
+```bash
+(root@Kali)-[(/home/kali)]- nmap -sn <ip address>
 
 
 ![image](https://github.com/user-attachments/assets/add6868f-e0e2-4ff4-9a84-c3b210626610)
