@@ -18,4 +18,9 @@ Tools that Im using:
 - Nmap
 
 
+Topics covered:
+-
+- TCP vs UDP scans
+
+
 
