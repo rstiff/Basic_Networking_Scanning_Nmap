@@ -29,7 +29,7 @@ Topics covered:
 Ping Scan:
 -
 
-![image](https://github.com/user-attachments/assets/70c6ee2f-008c-4f1e-b586-11fc41610825)
+
 
 
 
