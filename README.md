@@ -60,6 +60,14 @@ To scan the network for devices using Nmap, use the following command:
 TCP Vs. UDP Scans
 -
 
+What is TCP? TCP(Transmission Control Protocol) is a communications standard thats enables
+devices and applications to exchange messages over a network. The TCP Protocol is apart of the TCP/ip protocol stack which is
+a diagram of foundational framework that has 4 layeres, with TCP layer operates at the Transport Layer in the TCP/ip stack.
+
+
+What is UDP? 
+
+
 | **TCP Scan**     |   **Right Side** |
 |------------------|------------------|
 | test             |   test           |
