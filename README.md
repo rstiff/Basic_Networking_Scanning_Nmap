@@ -22,6 +22,10 @@ Topics covered:
 -
 - Ping Scan
 - TCP vs UDP scans
+- SYN can
+- Service Version Detection
+- OS Detetction
+  
 
 
 
@@ -51,6 +55,9 @@ To scan the network for devices using Nmap, use the following command:
 ![image](https://github.com/user-attachments/assets/9c259d35-6c6c-40c5-a289-00e66e18240a)
 
 - The picture above shows how many ip addreses there are as well as how many devices are connected to the Network.
+
+
+
 
 
 
