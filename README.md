@@ -57,6 +57,11 @@ To scan the network for devices using Nmap, use the following command:
 - The picture above shows how many ip addreses there are as well as how many devices are connected to the Network.
 
 
+TCP Vs. UDP Scans
+-
+
+
+
 
 
 
