@@ -69,6 +69,12 @@ Here is an Example Communication someone would send through the Diagram:
 ![image](https://github.com/user-attachments/assets/9505a1d7-2521-4b30-b7b0-6c32599336af)
 
 
+We see in the Above Screenshot we have the letters A and B. A wants to send "Hello" to B, in order to do that 
+Hello will get sent through the TCP/iP stack and back up through the TCP/iP stack. The string "Hello" will go through
+the network layer, data link layer, and physical layer then it will go back up throght the TCP/ip stack and send "Hello"
+to B.
+
+
 
 What is UDP? 
 
