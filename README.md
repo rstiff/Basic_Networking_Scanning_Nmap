@@ -60,6 +60,9 @@ To scan the network for devices using Nmap, use the following command:
 TCP Vs. UDP Scans
 -
 
+| **TCP Scan**     |   **Right Side** |
+|------------------|------------------|
+| test             |   test           |
 
 
 
