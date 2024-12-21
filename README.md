@@ -83,6 +83,8 @@ Here is what TCP and UDP look like drawn out in a picture.
 
 ![image](https://github.com/user-attachments/assets/2dc3e1ca-42ad-453a-a06d-840f346bedd0)
 
+Here are some diffrences between TCP & UDP
+
 
 | **TCP Scan**     |   **UDP Scan** |
 |------------------|------------------|
