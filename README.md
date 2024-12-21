@@ -87,7 +87,7 @@ Here is what TCP and UDP look like drawn out in a picture.
 | **TCP Scan**     |   **Right Side** |
 |------------------|------------------|
 | Handshake required             |   No Handshake required         |
-| Ensures data delivery and retransmits lost packets  | 
+| Ensures data delivery and retransmits lost packets  |  No guarantee delivery or retrainsmit lost packet
 
 
 How to do a TCP scan:
