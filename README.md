@@ -86,7 +86,7 @@ Here is what TCP and UDP look like drawn out in a picture.
 
 | **TCP Scan**     |   **Right Side** |
 |------------------|------------------|
-| test             |   test           |
+| Handshake required             |   No Handshake required         |
 
 
 How to do a TCP scan:
