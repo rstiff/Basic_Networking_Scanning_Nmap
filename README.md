@@ -76,7 +76,12 @@ to B.
 
 
 
-What is UDP? 
+What is UDP? UDP(User Datagram Protocol) scan is a network scanning technique uded to identify open ports on a target system. Unlike TCP, UDP is connectionless, meaning it dose not establish a handshake before transmitting data.
+
+
+Here is what TCP and UDP look like drawn out in a picture.
+
+![image](https://github.com/user-attachments/assets/2dc3e1ca-42ad-453a-a06d-840f346bedd0)
 
 
 | **TCP Scan**     |   **Right Side** |
@@ -84,6 +89,10 @@ What is UDP?
 | test             |   test           |
 
 
+How to do a TCP scan:
+
+
+How to do a UDP scan:
 
 
 
