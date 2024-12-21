@@ -84,7 +84,7 @@ Here is what TCP and UDP look like drawn out in a picture.
 ![image](https://github.com/user-attachments/assets/2dc3e1ca-42ad-453a-a06d-840f346bedd0)
 
 
-| **TCP Scan**     |   **UDP Scane** |
+| **TCP Scan**     |   **UDP Scan** |
 |------------------|------------------|
 | Handshake required             |   No Handshake required         |
 | Ensures data delivery and retransmits lost packets  |  No guarantee delivery or retrainsmit lost packets|
